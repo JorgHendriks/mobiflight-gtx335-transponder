@@ -1,0 +1,61 @@
+{
+  "$schema": "./mfdevice.schema.json",
+  "Info": {
+    "Label": "GTX335",
+    "Type": "GTX335",
+    "Author": "JH",
+    "URL": "https://github.com/JorgHendriks/mobiflight-gtx335-transponder",
+    "Version": "1.0.0"
+  },
+  "Config": {
+    "Pins": [],
+    "isI2C": false
+  },
+  "MessageTypes": [
+    {
+      "id": 0,
+      "label": "TRANSPONDER CODE",
+      "description": "Squawk sync. Digits 0..7 are right-aligned and zero-filled to 4 digits."
+    },
+    {
+      "id": 1,
+      "label": "FLIGHT ID",
+      "description": "Display-only callsign or flight ID, trimmed to 8 characters."
+    },
+    {
+      "id": 2,
+      "label": "PRESSURE ALT",
+      "description": "Pressure altitude in feet."
+    },
+    {
+      "id": 3,
+      "label": "STATIC AIR TEMP / SAT",
+      "description": "Static air temperature in Celsius."
+    },
+    {
+      "id": 4,
+      "label": "REPLY INDICATOR",
+      "description": "Strict boolean: 0 hides the reply box, 1 shows it."
+    },
+    {
+      "id": 5,
+      "label": "DENSITY ALT / DALT",
+      "description": "Density altitude in feet."
+    },
+    {
+      "id": 6,
+      "label": "SIM ON GROUND",
+      "description": "Strict boolean driving the automatic flight and trip timers."
+    },
+    {
+      "id": 7,
+      "label": "DISPLAY BACKLIGHT PWM",
+      "description": "External display backlight control, 0..255. The local backlight offset is applied afterwards."
+    },
+    {
+      "id": 8,
+      "label": "DISPLAY OLED CONTRAST",
+      "description": "External OLED contrast control, 0..100. The local contrast offset is applied afterwards."
+    }
+  ]
+}

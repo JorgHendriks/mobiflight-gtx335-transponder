@@ -1,0 +1,760 @@
+{
+  "Name": "GTX335 MSFS2024",
+  "ConfigFiles": [
+    {
+      "Label": "GTX335 - MSFS2024",
+      "FileName": null,
+      "ReferenceOnly": false,
+      "EmbedContent": true,
+      "ConfigItems": [
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:Transponder0)",
+              "PresetId": "2b07b723-64b0-44c1-9bdf-f6193c10bf05"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_0"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_0",
+          "GUID": "505a7834-2c7f-48fd-923f-054e90f7b5d2",
+          "Active": true,
+          "Name": "XPNDR digit 0",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:Transponder1)",
+              "PresetId": "09ddd15e-a50f-4f62-9532-3fd306f996cb"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_1"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_1",
+          "GUID": "fe597999-b004-4635-b222-7cc6b4b06b2b",
+          "Active": true,
+          "Name": "XPNDR digit 1",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:Transponder2)",
+              "PresetId": "1eb9ae7f-c95d-443c-ba87-dd3810fe6216"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_2"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_2",
+          "GUID": "2683c8b0-850f-4af6-9148-a47bac21deaf",
+          "Active": true,
+          "Name": "XPNDR digit 2",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:Transponder3)",
+              "PresetId": "8f2a5b95-d06d-4156-af6c-f294e2d1438a"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_3"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_3",
+          "GUID": "5e34ffa3-fb3b-47b7-814d-6aa05c601023",
+          "Active": true,
+          "Name": "XPNDR digit 3",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:Transponder4)",
+              "PresetId": "a0777872-878e-4d48-ac84-34e87c041930"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_4"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_4",
+          "GUID": "588a529b-1c76-4bc3-8993-fa2bf1285702",
+          "Active": true,
+          "Name": "XPNDR digit 4",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:Transponder5)",
+              "PresetId": "99255895-102e-41b9-8763-2fc144768ed0"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_5"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_5",
+          "GUID": "03e663df-3186-474d-8e24-319ee53a4b0b",
+          "Active": true,
+          "Name": "XPNDR digit 5",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:Transponder6)",
+              "PresetId": "38faa3cf-4058-454e-b486-f1726aeef8e6"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_6"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_6",
+          "GUID": "844b7748-db78-4498-bcba-b38dc0acd27c",
+          "Active": true,
+          "Name": "XPNDR digit 6",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:Transponder7)",
+              "PresetId": "611e1dee-1148-4196-8a43-0d691368b979"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_7"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_7",
+          "GUID": "8ef4f7e4-400e-4b0a-b667-86b36d9c31f9",
+          "Active": true,
+          "Name": "XPNDR digit 7",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "0 (>A:TRANSPONDER STATE:1, Enum)",
+              "PresetId": "6902c298-52d6-41b2-9ed5-14c6f7aafe66"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_OFF"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_OFF",
+          "GUID": "f67352c7-e416-4625-9867-ec9d17eed57d",
+          "Active": true,
+          "Name": "XPNDR OFF",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "1 (>A:TRANSPONDER STATE:1, Enum)",
+              "PresetId": "6bb83f0e-6466-4cc1-9f3d-26c205a340a5"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_SBY"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_SBY",
+          "GUID": "021797f9-e0d3-4f75-86e1-bb0009177f70",
+          "Active": true,
+          "Name": "XPNDR STBY",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "3 (>A:TRANSPONDER STATE:1, Enum)",
+              "PresetId": "f93b81d9-73f3-4734-a9b6-08f9684f179b"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_ON"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_ON",
+          "GUID": "0072be5e-6ba1-4dee-b57a-708f7fd67ce4",
+          "Active": true,
+          "Name": "XPNDR ON",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "4 (>A:TRANSPONDER STATE:1, Enum)",
+              "PresetId": "22f6b23a-79cd-4761-b066-b2bc1a309df6"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_ALT"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_ALT",
+          "GUID": "13ed4eba-9c18-427d-84fe-e356ea655175",
+          "Active": true,
+          "Name": "XPNDR ALT",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:TransponderVFR)",
+              "PresetId": "cb4278d8-5c94-47b1-bb60-958da077feb6"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_VFR"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_VFR",
+          "GUID": "ccdcfe22-9095-45e2-83e4-a6bf1069ff16",
+          "Active": true,
+          "Name": "XPNDR VFR",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>K:XPNDR_IDENT_ON)",
+              "PresetId": "89bf635f-a9f1-42a0-8229-039842286a22"
+            },
+            "onRelease": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "1 (>K:XPNDR_IDENT_OFF)",
+              "PresetId": "0"
+            },
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_IDNT"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_IDNT",
+          "GUID": "93264ac3-ac13-4675-8927-7b0e2e5f2ddc",
+          "Active": true,
+          "Name": "XPNDR IDENT",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "button": {
+            "onPress": {
+              "Type": "MSFS2020CustomInputAction",
+              "Command": "(>H:TransponderCLR)",
+              "PresetId": "2a6076b0-5ee1-4d83-a8f0-cfd0d3b04bb1"
+            },
+            "onRelease": null,
+            "onLongRelease": null,
+            "onHold": null,
+            "LongReleaseDelay": 350,
+            "HoldDelay": 350,
+            "RepeatDelay": 0
+          },
+          "Device": {
+            "Type": "Button",
+            "Name": "GTX335_CLR"
+          },
+          "DeviceType": "Button",
+          "DeviceName": "GTX335_CLR",
+          "GUID": "9ed46668-d766-468f-9496-889b6daa25f7",
+          "Active": true,
+          "Name": "XPNDR CLR",
+          "Type": "InputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "Source": {
+            "SimConnectValue": {
+              "UUID": "db3bd1a4-4c3c-4e3e-a9aa-3480bf0f4a70",
+              "Value": "(A:TRANSPONDER CODE:1,number)",
+              "VarType": 2
+            },
+            "Type": "SimConnectSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1200.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "GTX335",
+            "CustomType": "GTX335",
+            "CustomName": "GTX335",
+            "MessageType": 0,
+            "Value": "$",
+            "Type": "CustomDevice"
+          },
+          "DeviceType": "CustomDevice",
+          "DeviceName": "GTX335",
+          "GUID": "a6edb74d-10ab-4fa7-aa32-00fcc8f1442d",
+          "Active": true,
+          "Name": "GTX335 display - TRANSPONDER CODE",
+          "Type": "OutputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "Source": {
+            "SimConnectValue": {
+              "UUID": "ad543a58-6c34-4978-9fbe-e3573e90010d",
+              "Value": "(A:ATC ID,String)",
+              "VarType": 2
+            },
+            "Type": "SimConnectSource"
+          },
+          "TestValue": {
+            "type": 2,
+            "Float64": 0.0,
+            "String": "N345GN"
+          },
+          "Device": {
+            "Name": "GTX335",
+            "CustomType": "GTX335",
+            "CustomName": "GTX335",
+            "MessageType": 1,
+            "Value": "$",
+            "Type": "CustomDevice"
+          },
+          "DeviceType": "CustomDevice",
+          "DeviceName": "GTX335",
+          "GUID": "43e1de5c-a5c5-46ce-b6a2-686021695964",
+          "Active": true,
+          "Name": "GTX335 display - FLIGHT ID",
+          "Type": "OutputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "Source": {
+            "SimConnectValue": {
+              "UUID": "debc5796-e6ca-4aba-95c4-8ed8c60335ad",
+              "Value": "(A:PRESSURE ALTITUDE,Feet)",
+              "VarType": 2
+            },
+            "Type": "SimConnectSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 10000,
+            "String": null
+          },
+          "Device": {
+            "Name": "GTX335",
+            "CustomType": "GTX335",
+            "CustomName": "GTX335",
+            "MessageType": 2,
+            "Value": "$",
+            "Type": "CustomDevice"
+          },
+          "DeviceType": "CustomDevice",
+          "DeviceName": "GTX335",
+          "GUID": "c862638f-21b8-43b4-ba32-4ddeadf67434",
+          "Active": true,
+          "Name": "GTX335 display - PRESSURE ALT",
+          "Type": "OutputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "Source": {
+            "SimConnectValue": {
+              "UUID": "25755054-9196-47ba-ae3a-6d7c57d3e9ab",
+              "Value": "(A:AMBIENT TEMPERATURE,Celsius)",
+              "VarType": 2
+            },
+            "Type": "SimConnectSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 15.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "GTX335",
+            "CustomType": "GTX335",
+            "CustomName": "GTX335",
+            "MessageType": 3,
+            "Value": "$",
+            "Type": "CustomDevice"
+          },
+          "DeviceType": "CustomDevice",
+          "DeviceName": "GTX335",
+          "GUID": "32054985-1a54-48a0-95ab-d282a3bece6f",
+          "Active": true,
+          "Name": "GTX335 display - STATIC AIR TEMP / SAT",
+          "Type": "OutputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "Source": {
+            "SimConnectValue": {
+              "UUID": "c92c3d68-1990-4aeb-ba7a-612ae507b3a2",
+              "Value": "(A:DENSITY ALTITUDE,Feet)",
+              "VarType": 2
+            },
+            "Type": "SimConnectSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 10001.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "GTX335",
+            "CustomType": "GTX335",
+            "CustomName": "GTX335",
+            "MessageType": 5,
+            "Value": "$",
+            "Type": "CustomDevice"
+          },
+          "DeviceType": "CustomDevice",
+          "DeviceName": "GTX335",
+          "GUID": "00e99959-1775-449b-bd5b-7fb1b402697d",
+          "Active": true,
+          "Name": "GTX335 display - DENSITY ALT / DALT",
+          "Type": "OutputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "Source": {
+            "SimConnectValue": {
+              "UUID": "a6c94337-3700-4762-b288-1dbc0dba26da",
+              "Value": "(A:TRANSPONDER IDENT:1, Bool)",
+              "VarType": 2
+            },
+            "Type": "SimConnectSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "GTX335",
+            "CustomType": "GTX335",
+            "CustomName": "GTX335",
+            "MessageType": 4,
+            "Value": "$",
+            "Type": "CustomDevice"
+          },
+          "DeviceType": "CustomDevice",
+          "DeviceName": "GTX335",
+          "GUID": "d64cb54a-ab96-4040-ad39-c464b07e7115",
+          "Active": true,
+          "Name": "GTX335 display - REPLY INDICATOR",
+          "Type": "OutputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "Source": {
+            "SimConnectValue": {
+              "UUID": "a363b387-c63d-49d6-9301-97796d17da8f",
+              "Value": "(A:SIM ON GROUND, Bool) (A:PLANE ALT ABOVE GROUND, feet) 5 <= or",
+              "VarType": 2
+            },
+            "Type": "SimConnectSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 1.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "GTX335",
+            "CustomType": "GTX335",
+            "CustomName": "GTX335",
+            "MessageType": 6,
+            "Value": "$",
+            "Type": "CustomDevice"
+          },
+          "DeviceType": "CustomDevice",
+          "DeviceName": "GTX335",
+          "GUID": "dc730045-14f6-4cf3-86e5-bef57962f10e",
+          "Active": true,
+          "Name": "GTX335 display - SIM ON GROUND / AGL",
+          "Type": "OutputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "Source": {
+            "MobiFlightVariable": {
+              "TYPE": "number",
+              "Name": "GTX335_BACKLIGHT_PWM",
+              "Number": 255.0,
+              "Text": "",
+              "Expression": "$"
+            },
+            "Type": "VariableSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 255.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "GTX335",
+            "CustomType": "GTX335",
+            "CustomName": "GTX335",
+            "MessageType": 7,
+            "Value": "$",
+            "Type": "CustomDevice"
+          },
+          "DeviceType": "CustomDevice",
+          "DeviceName": "GTX335",
+          "GUID": "c4bba520-a77a-4aad-a859-6e965267d22e",
+          "Active": false,
+          "Name": "GTX335 display setting - Backlight PWM (0-255)",
+          "Type": "OutputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        },
+        {
+          "Source": {
+            "MobiFlightVariable": {
+              "TYPE": "number",
+              "Name": "GTX335_OLED_CONTRAST",
+              "Number": 25.0,
+              "Text": "",
+              "Expression": "$"
+            },
+            "Type": "VariableSource"
+          },
+          "TestValue": {
+            "type": 1,
+            "Float64": 25.0,
+            "String": null
+          },
+          "Device": {
+            "Name": "GTX335",
+            "CustomType": "GTX335",
+            "CustomName": "GTX335",
+            "MessageType": 8,
+            "Value": "$",
+            "Type": "CustomDevice"
+          },
+          "DeviceType": "CustomDevice",
+          "DeviceName": "GTX335",
+          "GUID": "d13a96d9-f491-4cec-a198-e3da43fe9e96",
+          "Active": false,
+          "Name": "GTX335 display setting - OLED contrast (0-100)",
+          "Type": "OutputConfigItem",
+          "Controller": {
+            "Name": "JH GTX335",
+            "Serial": "SN-E66540F0A30D6D2B"
+          }
+        }
+      ]
+    }
+  ],
+  "Sim": "msfs",
+  "Aircraft": [],
+  "Features": {
+    "FSUIPC": false,
+    "ProSim": false
+  },
+  "_version": "0.9"
+}

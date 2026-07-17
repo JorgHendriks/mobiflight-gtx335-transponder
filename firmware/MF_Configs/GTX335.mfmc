@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleType>JH GTX335</ModuleType>
+  <ModuleName>JH GTX335</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <CustomDevice Name="GTX335" CustomType="GTX335" Pins="14|13|12|11|9|8|7|6|5|4|27|28|16|15|22|26|2|1|3|0" Config="">
+    <ConfiguredPins>
+      <string>14</string>
+      <string>13</string>
+      <string>12</string>
+      <string>11</string>
+      <string>9</string>
+      <string>8</string>
+      <string>7</string>
+      <string>6</string>
+      <string>5</string>
+      <string>4</string>
+      <string>27</string>
+      <string>28</string>
+      <string>16</string>
+      <string>15</string>
+      <string>22</string>
+      <string>26</string>
+      <string>2</string>
+      <string>1</string>
+      <string>3</string>
+      <string>0</string>
+    </ConfiguredPins>
+  </CustomDevice>
+  <Button Name="GTX335_0" Pin="14" />
+  <Button Name="GTX335_1" Pin="13" />
+  <Button Name="GTX335_2" Pin="12" />
+  <Button Name="GTX335_3" Pin="11" />
+  <Button Name="GTX335_4" Pin="9" />
+  <Button Name="GTX335_5" Pin="8" />
+  <Button Name="GTX335_6" Pin="7" />
+  <Button Name="GTX335_7" Pin="6" />
+  <Button Name="GTX335_8" Pin="5" />
+  <Button Name="GTX335_9" Pin="4" />
+  <Button Name="GTX335_ON" Pin="27" />
+  <Button Name="GTX335_SBY" Pin="28" />
+  <Button Name="GTX335_OFF" Pin="16" />
+  <Button Name="GTX335_VFR" Pin="15" />
+  <Button Name="GTX335_ALT" Pin="22" />
+  <Button Name="GTX335_IDNT" Pin="26" />
+  <Button Name="GTX335_FUNC" Pin="2" />
+  <Button Name="GTX335_CRSR" Pin="1" />
+  <Button Name="GTX335_CLR" Pin="3" />
+  <Button Name="GTX335_ENT" Pin="0" />
+</Config>

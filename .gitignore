@@ -1,0 +1,15 @@
+# KiCad local and generated files
+*.kicad_prl
+*-backups/
+~*.lck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+#FreeCAD files
+*.FCBak
+
+
